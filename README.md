@@ -1,2 +1,1 @@
-# ULM
-UI library for MIght &amp; Magic
+# ALM - Animation Library for Might & Magic
